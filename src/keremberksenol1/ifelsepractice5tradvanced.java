@@ -44,7 +44,7 @@ public class ifelsepractice5tradvanced {
 	    else {
 			System.out.println("Geçti");
 		}	
-		
+
 	}
 
 }

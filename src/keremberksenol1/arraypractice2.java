@@ -2,8 +2,6 @@ package keremberksenol1;
 
 import java.util.Scanner;
 
-import javax.swing.plaf.synth.SynthCheckBoxMenuItemUI;
-
 public class arraypractice2 {
 
 	public static void main(String[] args) {

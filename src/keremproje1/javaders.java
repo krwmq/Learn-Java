@@ -5,18 +5,7 @@ import java.util.Iterator;
 public class javaders {
 
 	public static void main(String[] args) {
-		// kabarcık algoritması ikili kıyaslayarak bütün değerleri kıyaslayarak sıralar
-		// eğer herhangi bir işlem yapılmamışsa kabarcık algoritma durur.
-		// her seferde bir iterasyon garanti ettiği için iki for içinde birer birer
-		// azaltarak kontrol edilir
-		// Seçerek sıralama en küçük olanı bulur birinci değere atar sonra 2. sonra 3.
-		// dizi bitene kadar
-		// eklemeli sıralama birinci elemanı tutar ikinci elemanı hepsiyle kıyaslar
-		// yerlerini değiştirir sonra 2 tanesini tutar 3.yü kıyatslar...
-		// hızlı sıralama
-		// arama algoritmaları doğrusal ve ikili arama
-		// doğrusal aramada bir değer aranıp o değerin indis değerini döndürülür
-		//ikili arama sıralı listede yapılır 
+		 
 		int[] a = { 6, 2, 3, 10, 5, 1, 7, 8, 9, 4 };
 		for (int i : a) {
 			System.out.print(i + " ");

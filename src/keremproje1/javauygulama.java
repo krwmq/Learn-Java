@@ -7,7 +7,7 @@ public class javauygulama {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Oluşturulmasını istediğiniz dizinin boyutunu giriniz");
+		System.out.println("oluşturulmasını istediğiniz dizinin boyutunu giriniz");
 		int uzunluk = scanner.nextInt();
 		int[] a = new int[uzunluk];
 
